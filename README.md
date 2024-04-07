@@ -15,14 +15,18 @@ The application interprets lip movements from videos and converts them into text
 ## Instructions
 
 1. **Setup**
+
    - Ensure necessary dependencies (TensorFlow, Streamlit, OpenCV, etc.) are installed.
    - Place video files in the specified directory (`../data/s1/`).
 
 2. **Usage**
+
    - Run `streamlitapp.py` to start the Streamlit web application.
    - Select a video from the provided options for lip reading analysis.
+   - Run `python app.py` to start the api
 
 3. **Interaction**
+
    - View the selected video in the application.
    - Observe processed frames and the model's token/word predictions for lip reading.
 
@@ -31,4 +35,5 @@ The application interprets lip movements from videos and converts them into text
    - Enhance functionalities or add new features to the application.
 
 ## Contributing
+
 Currently I am working to generate translations for live video through the web cam and training the model for different languages and multiple speaker simultaneously, Contributions, issues, and feature requests are welcome!
