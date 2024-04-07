@@ -32,8 +32,3 @@ The application interprets lip movements from videos and converts them into text
 
 4. **Further Development**
    - Experiment with different model architectures or datasets for improved accuracy.
-   - Enhance functionalities or add new features to the application.
-
-## Contributing
-
-Currently I am working to generate translations for live video through the web cam and training the model for different languages and multiple speaker simultaneously, Contributions, issues, and feature requests are welcome!
