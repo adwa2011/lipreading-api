@@ -10,7 +10,7 @@ app = Flask(__name__)
 
 # Set the data directory
 data_s1_path = os.path.join(os.path.expanduser(
-    "~"), "Desktop", "Lip-Reader", "data", "s1")
+    "~"), "lipreading-api", "data", "s1")
 
 
 @app.route('/predict', methods=['POST'])
